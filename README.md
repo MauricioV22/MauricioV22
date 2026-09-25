@@ -1,6 +1,6 @@
 # Hola, soy Mauricio Vargas Ramos
 
-Soy estudiante avanzado de Ingeniería en Sistemas Computacionales, actualmente en etapa final de la carrera y enfocado principalmente en desarrollo backend.
+Estudiante avanzado de Ingeniería en Sistemas Computacionales, actualmente en etapa final de la carrera y enfocado principalmente en desarrollo backend.
 He trabajado en proyectos académicos y personales relacionados con desarrollo web, aplicaciones móviles, automatización, inteligencia artificial y análisis de datos.
 
 ## Áreas de interés
