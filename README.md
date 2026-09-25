@@ -14,16 +14,15 @@ He trabajado en proyectos académicos y personales relacionados con desarrollo w
 
 ## Tecnologías principales
 
-- Java
-- Spring Boot
-- Python
-- FastAPI
-- SQL Server
-- Firebase / Firestore
-- SQLite
-- React
-- Android
-- Git / GitHub
+Java
+Spring Boot
+Python
+FastAPI
+SQL Server
+Firebase / Firestore
+React
+Android
+Git / GitHub
 
 ## Proyectos destacados
 
