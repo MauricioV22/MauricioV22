@@ -26,8 +26,8 @@ He trabajado en proyectos académicos y personales relacionados con desarrollo w
 
 ## Proyectos destacados
 
-### Moonlight
-Sistema de reservas de autobuses con gestión de rutas, horarios, asientos, reservas y generación de boletos.
+### [Moonlight](https://github.com/MauricioV22/moonlight-bus-reservation)
+Sistema de reservas de autobuses con gestión de rutas, horarios, asientos, reservas, generación de boletos y mapa interactivo con trazado de recorridos.
 
 ### Moonlight Library
 Proyecto de Business Intelligence y análisis multidimensional con SQL Server, ETL, Data Warehouse, SSAS y Power BI.
